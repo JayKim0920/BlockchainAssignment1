@@ -47,7 +47,7 @@ def preimage_attack(target_hash, max_attempts=10000):
 
 # Main
 if __name__ == "__main__":
-    user_input = input("✍️ Enter a string: ")
+    user_input = input(" Enter a string: ")
     print("\n--- Avalanche Effect ---")
     avalanche_effect(user_input)
 
