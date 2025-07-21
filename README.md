@@ -4,9 +4,7 @@ This repository contains python scripts required and used in INTE264[1|2] | Bloc
 
 When requried to run, download/pull the files, open them through programs such as VScode, or by the terminal using commands like 'python [Filename here]'.
 
-Below are lists of external modules that might require installing and commands to install them.
+Below is the external module that might require installing and commands to install them.
 
-Q3.
-1. Cryptography
+Q3. Cryptography
    pip install cryptography  
-2. 
